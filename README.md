@@ -53,7 +53,7 @@ WITH HighSurgeOutbreaks AS (
 )
 SELECT * FROM HighSurgeOutbreaks;
 ```
-![simple CTEs Screenshot](simplecte.png)
+![simple CTEs Screenshot](simplecte.PNG)
 * **Business Value:** Identifies extreme critical threats instantly. Isolating massive case spikes allows global response agencies to immediately dispatch emergency containment teams and distribute personal protective equipment (PPE) before a local outbreak escalates into a pandemic.
 
 ---
